@@ -17,9 +17,13 @@ I have great passion for codding and building logical chains. Perfectionist, alw
 
 Citing my ancestor Alisher Navoi:
 >Learning bit-by-bit one turns into wise,
+
 >Gethering drop-by-drop one turns into river.
+
 >(in original:
+
 >Oz-oz o'rganib dono bo'lur, 
+
 >qatra-qatra yig'ilib daryo bo'lur.)
 
 * * *
