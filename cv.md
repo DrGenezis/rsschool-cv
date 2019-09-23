@@ -6,9 +6,9 @@
 *   Phone number:
     *   +998(90) 0000000
     *   +998(71) 0000000
-    *   email:
-        *   [gmail@gmail.com](mailto:gmail@gmail.com)
-        *   [gmail2@gmail.com](mailto:gmail2@gmail.com)
+*   email:
+    *   [gmail@gmail.com](mailto:gmail@gmail.com)
+    *   [gmail2@gmail.com](mailto:gmail2@gmail.com)
 
 ## Summary:
 
