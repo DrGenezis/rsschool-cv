@@ -2,7 +2,7 @@
 
 ### Contact info:
 
-#### 
+
 
 *   Phone number:
     *   +998(90) 0000000
