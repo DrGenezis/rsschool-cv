@@ -3,8 +3,17 @@ h1 {
     font-size: 42px;
 }
 
-body {
+.content {
+    width: 75%;
+    padding-left: 12.5%;
+
+    
+}
+
+#wrapper {
     text-align: center;
+    width: 1024px;
+    padding-left: 15%;
 }
 
 li {
@@ -14,3 +23,33 @@ li {
 ul{
     padding-left: 0;
 }
+
+footer{
+    font-size: 8px;
+    text-align: right;
+}
+#opendoor a{
+    text-decoration: none;
+    color: black;
+}
+#door {
+    display: block;
+  }
+  
+#opendoor {
+    display: none;
+
+  }
+  
+.exit {
+    width: auto;
+    display: inline-block;
+  }
+  
+.exit:hover #door {
+    display: none;
+  }
+  
+.exit:hover #opendoor {
+    display: block;
+  }
