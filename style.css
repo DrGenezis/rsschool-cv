@@ -3,6 +3,11 @@ h1 {
     font-size: 42px;
 }
 
+footer p span {
+    font-size: 24px;
+    padding-left: 12%;
+}
+
 .content {
     width: 75%;
     padding-left: 12.5%;
