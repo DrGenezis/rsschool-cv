@@ -1,11 +1,25 @@
 
+body {
+    background-color: #9932CC;
+    color: #FFFA00;
+}
+
 h1 {
     font-size: 42px;
+    color: #FAFF07;
+}
+h2, h3 {
+    color: #FAFF07;
 }
 
 footer p span {
     font-size: 24px;
     padding-left: 12%;
+}
+
+img {
+    width: 50%;
+    border-radius: 50%;
 }
 
 .content {
@@ -19,6 +33,26 @@ footer p span {
     text-align: center;
     width: 1024px;
     padding-left: 15%;
+}
+
+.email {
+    text-decoration: none;
+    color: #84FF11;
+}
+
+.email:hover {
+    text-decoration: underline;
+    color: white;
+}
+
+.gitlink {
+    text-decoration: none;
+    color: #84FF11;
+}
+
+.gitlink:hover {
+    text-decoration: underline;
+    color: white;
 }
 
 li {
@@ -35,10 +69,11 @@ footer{
 }
 #opendoor a{
     text-decoration: none;
-    color: black;
+    color: white;
 }
 #door {
     display: block;
+    color: white;
   }
   
 #opendoor {
